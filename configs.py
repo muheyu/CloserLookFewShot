@@ -1,4 +1,4 @@
-save_dir                    = '/work/newriver/wyharveychen/CloserLookFewShot/'
+save_dir                    = './model'
 data_dir = {}
 data_dir['CUB']             = './filelists/CUB/' 
 data_dir['miniImagenet']    = 'E:/Database/miniImagenet/'
