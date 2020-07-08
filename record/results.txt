@@ -1,1 +1,2 @@
 Time: 20200707-200938, Setting: miniImagenet-novel-Conv4-baseline 5shot 5way_test, Acc: 600 Test Acc = 55.79% +- 0.73% 
+Time: 20200708-103804, Setting: miniImagenet-novel-Conv4-baseline++ 5shot 5way_test, Acc: 600 Test Acc = 62.68% +- 0.76% 
